@@ -9,7 +9,8 @@ An end-to-end interactive **Power BI** dashboard developed to analyze employee a
 
 | Home / Overview | Attrition Insights |
 |---|---|
-| ![Overview]<img width="469" height="271" alt="Screenshot 2026-09-19 163111" src="https://github.com/user-attachments/assets/1baee965-8bd2-4c1b-ac0a-7efd3102aadf" /> | ![Attrition](./Screenshot 2026-09-19 163138.png) |
+| ![Overview]<img width="469" height="271" alt="Screenshot 2026-09-19 163111" src="https://github.com/user-attachments/assets/1baee965-8bd2-4c1b-ac0a-7efd3102aadf" /> | ![Attrition]<img width="473" height="271" alt="Screenshot 2026-09-19 163138" src="https://github.com/user-attachments/assets/685be5b3-7a41-4d74-a072-446626fadde6" />
+ |
 
 ---
 
