@@ -1,3 +1,4 @@
+
 # 📊 HR Attrition & Retention Analytics Dashboard
 
 An end-to-end interactive **Power BI** dashboard developed to analyze employee attrition, explore workforce demographics, and identify the primary factors driving employee turnover.
@@ -8,7 +9,7 @@ An end-to-end interactive **Power BI** dashboard developed to analyze employee a
 
 | Home / Overview | Attrition Insights |
 |---|---|
-| ![Overview](C:\Users\dell\OneDrive\Pictures\Screenshot 2026-09-19 163111.png) | ![Attrition](./Screenshot 2026-09-19 163138.png) |
+| ![Overview]<img width="469" height="271" alt="Screenshot 2026-09-19 163111" src="https://github.com/user-attachments/assets/1baee965-8bd2-4c1b-ac0a-7efd3102aadf" /> | ![Attrition](./Screenshot 2026-09-19 163138.png) |
 
 ---
 
